@@ -1,0 +1,10 @@
+{
+  "name": "strain-effects-api",
+  "version": "1.0.0",
+  "description": "REST API serving cannabis strain effect data with mental-energy, ADHD-scale, and panic-meter scores.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}

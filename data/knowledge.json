@@ -1,0 +1,24 @@
+{
+  "history": {
+    "global": "Cannabis originated in Central Asia and was spread via trade routes to China, India, and eventually the Middle East and Africa.",
+    "nigeria": {
+      "arrival": "Cannabis arrived in Nigeria primarily through trade and colonial contact. It became integrated into various local markets and traditional settings, though its usage patterns shifted significantly during the 20th century due to changing laws and urban migration.",
+      "cultural_context": "In Nigeria, it has been used both for traditional purposes and recreationally, with the 'local' variants often differing significantly from the imported 'Californian' genetics."
+    }
+  },
+  "truth_checks": {
+    "synthetic_warnings": {
+      "colos": {
+        "status": "SYNTHETIC",
+        "warning": "Colos (or Colorado) is NOT natural cannabis. It is a synthetic cannabinoid (K2/Spice). Unlike natural weed, synthetic cannabinoids are chemically engineered to mimic THC but can cause severe health issues, including psychosis, heart palpitations, and seizures. It is a dangerous chemical imitation, not a plant."
+      }
+    },
+    "regional_disparities": {
+      "scottish_vs_cali": {
+        "california": "Known for high-potency, hybrid-heavy genetics, specialized indoor hydroponics, and extreme THC percentages. Focused on 'designer' effects.",
+        "scottish": "Typically focuses on hardy, outdoor-grown genetics. While potentially less 'potent' in pure THC percentage compared to Cali hybrids, Scottish strains often retain more diverse terpene profiles and resilience due to the harsher, colder climate.",
+        "verdict": "The disparity is mainly due to climate and cultivation intent: Cali is for extreme potency; Scottish/European grows are often about resilience and natural terpene expression."
+      }
+    }
+  }
+}
